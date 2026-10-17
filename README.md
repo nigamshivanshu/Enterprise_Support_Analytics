@@ -86,17 +86,28 @@ Generated using Python (Faker library) with realistic enterprise distributions.
 KPIs: Total Tickets, Open Tickets, SLA Compliance %, Avg Resolution Hours, Avg CSAT, SLA Breaches
 Charts: Tickets by Status (Donut), Tickets by Priority (Bar), Monthly Trend (Line)
 
+<img width="897" height="505" alt="image" src="https://github.com/user-attachments/assets/5d23fbc8-37ed-4eae-b92b-d2ba405a9c3f" />
+
+
 ### Page 2 — Customer Analytics
 Top 10 customers, Industry breakdown, SLA compliance by subscription plan, CSAT by industry
 Slicer: Subscription Plan
+
+<img width="897" height="505" alt="image" src="https://github.com/user-attachments/assets/287fa856-f1a9-4bd4-9d0a-73e6cc351898" />
 
 ### Page 3 — Engineer Performance
 Top 15 engineers by tickets resolved, Team comparison, Avg resolution hours by team, CSAT by team
 Slicer: Team
 
+<img width="896" height="509" alt="image" src="https://github.com/user-attachments/assets/4ca98644-3c64-452e-81f3-449d2fda72cc" />
+
+
 ### Page 4 — Incident Intelligence
 Root cause frequency, Root cause by priority (Stacked), Monthly trend by priority, SLA breaches by root cause
 Slicer: Priority
+
+<img width="898" height="504" alt="image" src="https://github.com/user-attachments/assets/14e0b25a-a80b-4af9-ba02-75e32bdda711" />
+
 
 ---
 
@@ -118,9 +129,7 @@ Enterprise-Support-Analytics/
 │   ├── phase5_advanced_sql.sql
 │   ├── phase6_root_cause_analysis.sql
 ├── Dashboard/
-│   ├── Enterprise_Support_Analytics_Hitakshi_Kathiriya.pbix
-├── ERD/
-│   ├── er_diagram.png
+│   ├── Enterprise_Support_Analytics.pbix
 ├── README.md
 ```
 
@@ -136,18 +145,12 @@ Enterprise-Support-Analytics/
 
 ---
 
-## Why This Project
-
-This project directly mirrors my professional experience as a **Technical Support Analyst at Sufalam Solutions**, where I resolved 20–30 enterprise client issues daily, performed root-cause analysis on system failures, and maintained 100% SLA compliance across 50+ accounts.
-
-This analytics platform represents what that operational data would look like when transformed into actionable business intelligence.
-
----
 
 ## Author
 
-**Hitakshi Kathiriya**
+**Shivanshu Nigam**
+
 Data Science & AI Professional
-- LinkedIn: linkedin.com/in/hitakshikathiriya-3088a32ba
-- GitHub: github.com/HitakshiKathiriya
-- Email: hitakshikathiriya291@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shivanshu-nigam/
+- GitHub: https://github.com/nigamshivanshu
+- Email: shivanshunigam0201@gmail.com
